@@ -10,8 +10,8 @@ The test case verifies the application's behavior by ensuring the quantity of it
 Steps Covered:
 1. Navigate to the home page of the application.
 2. Add a product to the cart.
-3. View the cart and confirm the product is displayed with a quantity of 1 by default.
-4. Increase the product quantity in the cart and verify that the total price updates correctly based on the new quantity.
+3. View the cart and confirm the product is displayed with a quantity of 4 by default.
+4. Increase the product quantity in the cart to 4 and verify that the quantity updates correctly based on the new quantity.
    
 Tools & Technologies Used:
 Selenium WebDriver, Mocha
